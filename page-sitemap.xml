@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/johns-creek/</loc>
+		<lastmod>2025-02-07T02:30:16+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/sandy-springs/</loc>
-		<lastmod>2025-02-06T03:58:15+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/roswell/</loc>
-		<lastmod>2025-02-06T03:58:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/johns-creek/</loc>
-		<lastmod>2025-02-06T03:58:15+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/macon/</loc>
-		<lastmod>2025-02-06T03:58:14+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/savannah/</loc>
-		<lastmod>2025-02-06T03:58:14+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/athens/</loc>
-		<lastmod>2025-02-06T03:58:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/east-point/</loc>
-		<lastmod>2025-02-06T03:58:13+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/columbus/</loc>
-		<lastmod>2025-02-06T03:58:13+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/east-point/</loc>
+		<lastmod>2025-02-07T02:30:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/augusta/</loc>
-		<lastmod>2025-02-06T03:58:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/dalton/</loc>
-		<lastmod>2025-02-06T03:58:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/peachtree-corners/</loc>
-		<lastmod>2025-02-06T03:58:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gainesville/</loc>
-		<lastmod>2025-02-06T03:58:11+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mableton/</loc>
-		<lastmod>2025-02-06T03:58:11+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/smyrna/</loc>
-		<lastmod>2025-02-06T03:58:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/valdosta/</loc>
-		<lastmod>2025-02-06T03:58:10+00:00</lastmod>
+		<loc>/dalton/</loc>
+		<lastmod>2025-02-07T02:30:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/brookhaven/</loc>
-		<lastmod>2025-02-06T03:58:10+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/albany/</loc>
-		<lastmod>2025-02-06T03:58:09+00:00</lastmod>
+		<loc>/peachtree-corners/</loc>
+		<lastmod>2025-02-07T02:30:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gainesville/</loc>
+		<lastmod>2025-02-07T02:30:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/smyrna/</loc>
+		<lastmod>2025-02-07T02:30:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/valdosta/</loc>
+		<lastmod>2025-02-07T02:30:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/marietta/</loc>
-		<lastmod>2025-02-06T03:58:09+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/warner-robins/</loc>
-		<lastmod>2025-02-06T03:58:08+00:00</lastmod>
+		<loc>/albany/</loc>
+		<lastmod>2025-02-07T02:30:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/atlanta/</loc>
-		<lastmod>2025-02-06T03:58:08+00:00</lastmod>
+		<lastmod>2025-02-07T02:30:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/warner-robins/</loc>
+		<lastmod>2025-02-07T02:30:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
